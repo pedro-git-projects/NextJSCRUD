@@ -1,5 +1,5 @@
 import Titulo from "./Titulo";
-//recurso TS para exigit propriedades dentro de um componente
+
 interface LayoutProps {
     titulo: string
     children: any
