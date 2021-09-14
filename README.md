@@ -3,7 +3,7 @@
 
 ## Objective
 
-To write a create, read, update, delete web application using NextJS and Tailwind CSS, practicing its fundamentals.
+To write a create, read, update, delete web application using NextJS and Tailwind CSS, practicing their fundamentals.
 
 ## Technologies
 - NextJS
